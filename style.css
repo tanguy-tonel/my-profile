@@ -130,6 +130,7 @@ ul {
 .img-circle {
   border-radius: 50%;
 }
+
 .btn-linkedin {
   font-family: Lobster;
 background-color: #FE642E;
@@ -137,6 +138,7 @@ background-color: #FE642E;
   padding: 15px 20px;
   border-radius: 4px;
 }
+
 .btn-linkedin:hover {
   background-color: black;
   color: white;
