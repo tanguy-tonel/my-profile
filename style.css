@@ -1,0 +1,188 @@
+body {
+		background-color: #FFC886;
+		color: rgb(30,30,30);
+		font-family: Lora;
+			text-align: center;
+		border-radius: 
+}
+
+
+img{border-radius: 50%;
+size: 50%;}
+
+i
+}
+
+#logo {
+	width: 300px;
+	border-radius: 50%
+}
+
+.img-circle { 
+  border-radius: 50%;
+  border: 10 px red;
+}
+
+.img-bordered{
+
+	border: 10px red;
+}
+
+.btn-linkedin {
+    background-color: #F66307;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;}
+
+.film {
+
+margin-top: 20px
+}
+
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+h1{
+		color: black;
+		font-family:Raleway, sans-serif;
+		font-weight: ;
+		letter-spacing: ;
+		font-size: 32px;
+		text-transform: ;
+		text-align: center;
+		font-weight: bold;
+}
+
+h2{
+
+		color: 5D5D5D;
+		font-family:Raleway, sans-serif;
+		font-size: 24px;
+		text-align: center;
+		font-weight: bold;
+}
+
+h3,h4{
+
+		color: black;
+		font-family:Muli, sans-serif;
+		font-size: 24px;
+		text-align: center;
+}
+
+p{
+		color: black;
+		font-family:Rubik, sans-serif;
+
+
+}
+
+list-style{
+		font-family:Lobster, sans-serif;
+}
+
+a{
+	text-decoration: none;
+	color: F66307;
+	font-family:Lora, sans-serif;
+	text-align: center;
+	transition: color 0.3s ease;
+}
+
+a:hover {
+	text-decoration: none
+	color: orange;
+}
+
+
+#pays li {
+    list-style-type: none;
+}
+
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+}
+
+.whole {
+  width: 700px;
+  margin: 40px auto;
+}
+
+.div {
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+}
+.img-circle {
+  border-radius: 50%;
+}
+.btn-linkedin {
+  background-color: #FE642E;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px;
+}
+.btn-linkedin:hover {
+  background-color: black;
+  color: white;
+}
+
+.film {
+	padding-top: 20px;
+}
+
+@media (max-width: 960px) {
+  
+  .whole {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+
+  .whole {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+
+  .whole {
+    width: 300px;
+  }
+}
+
+.sn {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.sn li {
+  display: inline;
+  padding: 10px;
+}
+
+.sn i {
+  font-size: 50px;
+  color: rgb(230, 230, 230);
+}
+.sn i:hover {
+  color: #FE642E;
+}
+
+
+#introduction p {
+  margin-bottom: 40px;
+}
