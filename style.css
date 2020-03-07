@@ -131,7 +131,8 @@ ul {
   border-radius: 50%;
 }
 .btn-linkedin {
-  background-color: #FE642E;
+  font-family: Lobster;
+background-color: #FE642E;
   color: white;
   padding: 15px 20px;
   border-radius: 4px;
